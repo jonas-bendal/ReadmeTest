@@ -1,7 +1,7 @@
-**About our Project:** <br>
-# We have made an ASP.NET Core MVC Aplication which is going to be used by Norsk Luftambulanse and Kartverket to collect data about unregistrered obstacles in their navigation map for Helicopters.
+# **About our Project:** <br>
+We have made an ASP.NET Core MVC Aplication which is going to be used by Norsk Luftambulanse and Kartverket to collect data about unregistrered obstacles in their navigation map for Helicopters.
 The application allows users to register, view and manage information about obstacles in a structured and user friendly way.
-TESTER !!!!!
+
 **The system consists of:**
 * Webapplication developted in ASP.NET Core 9 with MVC/Razor Views.
 * MariaDB database with ASP.NET Identity
@@ -9,7 +9,7 @@ TESTER !!!!!
 * Leaflet.js for map interaction
 * Autorization and authentication is based on roles (Pilot, Caseworker, CaseworkerAdm and Admin)
 
-**Technologies Used**
+# **Technologies Used**
 * .Net 9, MVC, Razor Views
 * MariaDB/MySQL
 * Docker & Docker Compose
