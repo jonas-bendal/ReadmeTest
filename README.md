@@ -1,5 +1,5 @@
-# **About our Project:** <br>
-We have made an ASP.NET Core MVC Aplication which is going to be used by Norsk Luftambulanse and Kartverket to collect data about unregistrered obstacles in their navigation map for Helicopters.
+**About our Project:** <br>
+# We have made an ASP.NET Core MVC Aplication which is going to be used by Norsk Luftambulanse and Kartverket to collect data about unregistrered obstacles in their navigation map for Helicopters.
 The application allows users to register, view and manage information about obstacles in a structured and user friendly way.
 
 **The system consists of:**
